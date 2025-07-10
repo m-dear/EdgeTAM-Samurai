@@ -120,6 +120,6 @@ This project builds upon the work of the EdgeTAM authors at Meta Reality Labs an
 
 <div align="center">
 
-[🌟 Star us on GitHub](https://github.com/m-dear/edge_sam2_realtime.git) 
+[🌟 Star us on GitHub](https://github.com/m-dear/EdgeTAM-Samurai.git) 
 
 </div>
