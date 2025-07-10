@@ -34,8 +34,8 @@ https://github.com/user-attachments/assets/0ab449db-d42c-4c04-8c34-a25d2a33ddd2
 
 ```bash
 # Clone the repo
-git clone https://github.com/m-dear/edge_sam2_realtime.git
-cd edge_sam2_realtime
+git clone https://github.com/m-dear/EdgeTAM-Samurai.git
+cd EdgeTAM-Samurai
 # Install dependencies
 pip install -e .
 ```
