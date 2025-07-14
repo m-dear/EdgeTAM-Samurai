@@ -47,8 +47,8 @@ import torch
 from edge_sam2.build_sam import build_sam2_object_tracker
 
 # Load the model
-checkpoint = "./checkpoints/edgetam_samurai.pt"
-model_cfg = "configs/edgetam_samurai.yaml"
+checkpoint = "./checkpoints/edgetam.pt"
+model_cfg = "configs/edgetam.yaml"
 predictor = build_sam2_object_tracker(
       config_file=model_cfg,
       ckpt_path=checkpoint,

@@ -54,7 +54,8 @@ Dynamic: requires-dist
 Dynamic: requires-python
 Dynamic: summary
 
-# 🚀 EdgeTAM-SAMURAI: On-Device Tracking with Motion-Aware Memory
+# 🚀 EdgeTAM-SAMURAI: On-Device Tracking with Motion-Aware Memory.
+
 
 > **Fast on-device tracking that remembers everything**  
 > Combining EdgeTAM's speed with SAMURAI's memory bank for next-level video object tracking. 
@@ -89,8 +90,8 @@ https://github.com/user-attachments/assets/0ab449db-d42c-4c04-8c34-a25d2a33ddd2
 
 ```bash
 # Clone the repo
-git clone https://github.com/m-dear/edge_sam2_realtime.git
-cd edge_sam2_realtime
+git clone https://github.com/m-dear/EdgeTAM-Samurai.git
+cd EdgeTAM-Samurai
 # Install dependencies
 pip install -e .
 ```
@@ -128,7 +129,7 @@ Currently, only the `build_sam2_object_tracker` function implements the EdgeTAM 
 
 ### Demo code
 ```bash
-cd EdgeTAM-SAMURAI
+cd EdgeTAM-Samurai
 # Run the demo script
 python demo/run_realtime.py
 ```
@@ -175,6 +176,6 @@ This project builds upon the work of the EdgeTAM authors at Meta Reality Labs an
 
 <div align="center">
 
-[🌟 Star us on GitHub](https://github.com/m-dear/edge_sam2_realtime.git) 
+[🌟 Star us on GitHub](https://github.com/m-dear/EdgeTAM-Samurai.git) 
 
 </div>
